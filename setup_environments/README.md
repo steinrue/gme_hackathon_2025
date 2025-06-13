@@ -43,7 +43,7 @@ In either case, run
 ```shell
 Run pip install -r gme_hack_2025_env.txt
 ```
-to install the packages.
+afterwards to install the packages.
 
 
 #### R
@@ -52,4 +52,4 @@ Many modern machine learning (especially deep learning) libraries work poorly wi
 
 If you do want to install the libraries in `R`, you need `R` version `4.4.3` (maybe other 4.4.x versions work, but we tested with 4.4.3). Then download the files [install_libraries_example4.R](install_libraries_example4.R) and [install_libraries_example5.R](install_libraries_example5.R) (if your browser opens a new window, click "download" in the top right). These two files install the libraries required for example 4 and 5, respectively.
 
-Load each file in `R`, and execute the commands. The file `install_libraries_example4.R` should run smoothly.  The file `install_libraries_example4.R` should run smoothly. The file `install_libraries_example5.R` can take a while and might not end up working on your system. We were able to install it on some, but not on others, but this only affects example 5.
+Load each file in `R`, and execute the commands to install the libraries. The file `install_libraries_example4.R` should run smoothly. The file `install_libraries_example5.R` can take a while and might end up not working on your system. We were able to install it on some systems, but not on others. However, this only affects example 5.
