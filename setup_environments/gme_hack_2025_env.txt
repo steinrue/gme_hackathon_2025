@@ -1,0 +1,25 @@
+python>=3.12.7
+# the basics
+jupyter
+jupyterlab
+numpy
+pandas
+seaborn
+scipy
+matplotlib
+# tutorial 1 (no code)
+# tutorial 2
+torchvision
+torchaudio
+# tutorial 3 (leave on collab)
+# example 1
+pillow
+scikit-learn
+opencv
+tensorflow
+# example 2
+pytorch
+# example 3
+requests
+# example 4 (in R)
+# example 5 (in R)
