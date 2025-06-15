@@ -9,7 +9,7 @@ We will have KCBD 1100 for presentations and hacking. Coffee in the morning/afte
   - 10:45 am - 11:45 am: Tutorial 2.
   - 11:45 am - 12:00 pm: Share group project idea.
   - 12:00 pm - 12:30 pm: Lunch.
-  - 12:30 pm - 1:30 pm: Tutorial 1.
+  - 12:30 pm - 1:30 pm: Tutorial 3.
   - 1:30 pm - 4:30 pm: Open hacking.
   - 4:30 pm - 5:00 pm: Status checks & Feedback.
 - Wednesday, June 18
