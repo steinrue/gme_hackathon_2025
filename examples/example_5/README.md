@@ -1,11 +1,14 @@
-#### Tutorial 2
+#### Example 5 (Matthias)
 
-This tutorial is in python. The original is here: https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html, but we also provided the code here in this repository.
+This tutorial is in `R`. The original is here: https://tensorflow.rstudio.com/tutorials/keras/classification, but we also provide a slightly modified version here in this repository: [image_classification.Rmd](image_classification.Rmd).
 
 Description:
 
-- Use `pytorch` to train and test articfical neural network to label images.
+- Classify images of clothing items.
+- Build, compile, train, test model
+- Visualize predictions.
 
 Notes:
 
-- Should run smoothly.
+- Should run smoothly on your Laptop if `tensorflow` and `keras` is installed properly.
+- Did actually not run properly on Matthias' Macboook (M2). 
