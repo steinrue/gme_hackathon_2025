@@ -23,3 +23,14 @@ We will have KCBD 1100 for presentations and hacking. Coffee in the morning/afte
 #### Examples presented
 
 As indicated in the earlier email, here are instructions and scripts to set up the required envorinments in python and R: [setup_environments](setup_environments/).
+
+Here are links with more details on each tutorial and other examples:
+
+- Tutorial 1: 3Blue1Brown website on machihne learning - [Link](https://www.3blue1brown.com/topics/neural-networks).
+- Tutorial 2: Use articfical neural network to label images - [examples/tutorial_2](examples/tutorial_2).
+- Tutorial 3: - [examples/tutorial_3](examples/tutorial_3).
+- Example 1: - [examples/example_1](examples/example_1).
+- Example 2: - [examples/example_2](examples/example_2).
+- Example 3: - [examples/example_3](examples/example_3).
+- Example 4: - [examples/example_4](examples/example_4).
+- Example 5: - [examples/example_5](examples/example_5).
