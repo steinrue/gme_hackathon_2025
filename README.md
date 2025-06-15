@@ -34,3 +34,11 @@ Here are links with more details on each tutorial and other examples:
 - Example 3: Predicts whether a DNA sequence contains a TF binding site using CNN (Python, Jonathan) - [examples/example_3](examples/example_3).
 - Example 4: Cluster single-cell dataset using PCA and nearest neighbor algorithms (R, Matthias) - [examples/example_4](examples/example_4).
 - Example 5: Classify images of clothing items using artifical neural network (R, Matthias) - [examples/example_5](examples/example_5).
+
+#### Using github and forking the hackathon repository
+
+We strongly recommend using github (not only for the hackathon, but in general), as it is a very convenient way to share and archive code. There are different ways to use github, but a very convenient one is using a GUI. Github provides a slim GUI called `GitHub Desktop`, which you can downloaded at https://github.com/apps/desktop. Please download it and connect it to your github account.
+
+Moreover, to conveniently obtain the examples from the hackathon, and share your groups work afterwards with everybody, we recommend to create a `fork` of the gme repository. This can be achieved on the github website of the repository at https://github.com/steinrue/gme_hackathon_2025, but you needed to be logged into your account in the browser. Here are instructions to `fork` repositories and create your own copy of an existing one: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo.
+
+Please create a fork of thy repository https://github.com/steinrue/gme_hackathon_2025 with your github account, and sunchronize it to your laptop using the `GitHub Desktop` tool. Changes that you make to this fork are now only in the forked repository, and don't affect the main repository. Throughout the hackathon, we would recommend that your group only works on one fork though. to this end, you can create a subfolder in the folder `groups` for your group to store and share our code while working on it. After the hackathon is over, the fork can be conveniently merged with the main repository, through what is weirdly called a `pull` request.
