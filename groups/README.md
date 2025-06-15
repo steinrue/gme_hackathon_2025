@@ -1,0 +1,1 @@
+Folder to collect projects from different groups.

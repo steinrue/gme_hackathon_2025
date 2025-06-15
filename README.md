@@ -1,0 +1,25 @@
+### 2025 GME Hackathon
+
+We will have KCBD 1100 for presentations and hacking. Coffee in the morning/afternoon and lunch will be provided in the lobby of KCBD. Here is a brief schedule of the hackathon:
+
+- Tuesday, June 17
+  - 9:00 am - 9:15 am: Arrive, grab coffee and a snack.
+  - 9:15 am - 10:15 am: Intro to hackathon / presentation about basics (Tutorial 1).
+  - 10:15 am - 10:45 am: Form groups, short break.
+  - 10:45 am - 11:45 am: Tutorial 2.
+  - 11:45 am - 12:00 pm: Share group project idea.
+  - 12:00 pm - 12:30 pm: Lunch.
+  - 12:30 pm - 1:30 pm: Tutorial 1.
+  - 1:30 pm - 4:30 pm: Open hacking.
+  - 4:30 pm - 5:00 pm: Status checks & Feedback.
+- Wednesday, June 18
+  - 9:00 am - 9:30 am: Show intermediate progress & Goal setting for the day.
+  - 9:30 am - 11:30 am: Open hacking.
+  - 11:30 am - 12:00 pm: Discussion of lessons being learned.
+  - 12:00 pm - 12:30 pm: Lunch.
+  - 12:30 pm - 4:00 pm: Open hacking
+  - 4:00 pm - 5:00 pm: Closing presentations & prizes.
+
+#### Examples presented
+
+As indicated in the earlier email, here are instructions and scripts to set up the required envorinments in python and R: [setup_environments](setup_environments/).
