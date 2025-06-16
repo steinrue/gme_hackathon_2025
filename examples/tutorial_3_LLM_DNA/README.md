@@ -1,4 +1,4 @@
-#### Tutorial 3 (Henry)
+#### Tutorial 3 - Large language model (LLM) for human reference genome (Henry)
 
 This tutorial is in `python` and hosted on Google Colab. Here is the link: https://colab.research.google.com/drive/1eubf9S2YNc1CldfDakum5ApThK45pJX5?usp=sharing
 

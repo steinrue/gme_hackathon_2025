@@ -27,13 +27,13 @@ As indicated in the earlier email, here are instructions and scripts to set up t
 Here are links with more details on each tutorial and other examples:
 
 - Tutorial 1: 3Blue1Brown website on machihne learning (Python, Matthias) - [Link](https://www.3blue1brown.com/topics/neural-networks).
-- Tutorial 2: Use articfical neural network to label images (Python, Rowan) - [examples/tutorial_2](examples/tutorial_2).
-- Tutorial 3: Large language model (LLM) for human reference genome (Python, Henry) -  [examples/tutorial_3](examples/tutorial_3).
-- Example 1: Classify healthy and cancer cells using Convolutional Neural Network (Python, Henry) - [examples/example_1](examples/example_1).
-- Example 2: Simulate synthetic DNA data and train model to predict score using CNN (Python, Marida) - [examples/example_2](examples/example_2).
-- Example 3: Predicts whether a DNA sequence contains a TF binding site using CNN (Python, Jonathan) - [examples/example_3](examples/example_3).
-- Example 4: Cluster single-cell dataset using PCA and nearest neighbor algorithms (R, Matthias) - [examples/example_4](examples/example_4).
-- Example 5: Classify images of clothing items using artifical neural network (R, Matthias) - [examples/example_5](examples/example_5).
+- Tutorial 2: Use articfical neural network to label images (Python, Rowan) - [examples/tutorial_2_CNN_label_images](examples/tutorial_2_CNN_label_images).
+- Tutorial 3: Large language model (LLM) for human reference genome (Python, Henry) -  [examples/tutorial_3_LLM_DNA](examples/tutorial_3_LLM_DNA).
+- Example 1: Classify healthy and cancer cells using Convolutional Neural Network (Python, Henry) - [examples/example_1_CNN_cancer_images](examples/example_1_CNN_cancer_images).
+- Example 2: Simulate synthetic DNA data and train model to predict score using CNN (Python, Marida) - [examples/example_2_CNN_DNA_score](examples/example_2_CNN_DNA_score).
+- Example 3: Predicts whether a DNA sequence contains a TF binding site using CNN (Python, Jonathan) - [examples/example_3_CNN_DNA_TF_binding](examples/example_3_CNN_DNA_TF_binding).
+- Example 4: Cluster single-cell dataset using PCA and nearest neighbor algorithms (R, Matthias) - [examples/example_4_single_cell_clustering](examples/example_4_single_cell_clustering).
+- Example 5: Classify images of clothing items using artifical neural network (R, Matthias) - [examples/example_5_CNN_classify_clothing_images](examples/example_5_CNN_classify_clothing_images).
 
 #### Using github and forking the hackathon repository
 

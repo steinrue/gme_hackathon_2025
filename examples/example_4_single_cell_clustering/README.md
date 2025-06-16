@@ -1,4 +1,4 @@
-#### Example 4 (Matthias)
+#### Example 4 - Cluster single-cell dataset using PCA and nearest neighbor algorithms (Matthias)
 
 This tutorial is in `R`. The example is taken from here: https://gene46100.hakyimlab.org/post/2025-05-12-unit04/seurat5_pbmc3k_tutorial, and code with minor modidifitaions is provided in this repository: [seurat.Rmd](seurat.Rmd).
 

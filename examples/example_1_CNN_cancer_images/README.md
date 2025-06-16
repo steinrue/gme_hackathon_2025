@@ -1,4 +1,4 @@
-#### Example 1 (Henry)
+#### Example 1 - Classify healthy and cancer cells using Convolutional Neural Network (Henry)
 
 This tutorial is in `python`. The original is here: https://www.geeksforgeeks.org/deep-learning/lung-cancer-detection-using-convolutional-neural-network-cnn/, and uses data from here: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images. The original did not have a decidated notebook, so here is one in Google Colab: https://colab.research.google.com/drive/1orGuuQrNE4fmzH2jhxaP1J6q1dS97c8j?usp=sharing, and we also provide it in this repository: [GME_Hackathon_Cancer_CNN_Notebook.ipynb](GME_Hackathon_Cancer_CNN_Notebook.ipynb).
 

@@ -1,4 +1,4 @@
-#### Example 5 (Matthias)
+#### Example 5 - Classify images of clothing items using artifical neural network (Matthias)
 
 This tutorial is in `R`. The original is here: https://tensorflow.rstudio.com/tutorials/keras/classification, but we also provide a slightly modified version here in this repository: [image_classification.Rmd](image_classification.Rmd).
 

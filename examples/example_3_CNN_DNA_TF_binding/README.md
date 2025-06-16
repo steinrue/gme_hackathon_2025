@@ -1,4 +1,4 @@
-#### Example 3 (Jonathan)
+#### Example 3 - Predicts whether a DNA sequence contains a TF binding site using CNN (Jonathan)
 
 This tutorial is in `python`. The original is here: https://colab.research.google.com/github/abidlabs/deep-learning-genomics-primer/blob/master/A_Primer_on_Deep_Learning_in_Genomics_Public.ipynb. Here is the a revised version of the code on Google Colab https://colab.research.google.com/drive/1rb6HSc3Jk0D5iZfz14Y51ebZBzHnbLvJ?usp=drive_link and we the repository also contains a copy: [A_Primer_on_Deep_Learning_in_Genomics_JW_edited.ipynb](A_Primer_on_Deep_Learning_in_Genomics_JW_edited.ipynb).
 
